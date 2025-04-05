@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## Me chamo Cintia Lima
+
+Analista de Testes e Qualidade de Software (QA)
+
+Linkedin:
+www.linkedin.com/in/cintia-lima-6b3421232
 <!--
 **Cintia-Lima/Cintia-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
